@@ -1,6 +1,6 @@
 # Unity Range Shooter
 
-A simple VR shooting-range game built in Unity. Players explore an indoor range, pick up a handgun, and shoot bottle targets during a timed round. The project combines controller-based interaction, physics-driven shooting, and in-world feedback.
+A simple VR shooting-range game built in Unity. Players explore an indoor range, pick up a pistol, and shoot bottle targets during a timed round. The project combines controller-based interaction, physics-driven shooting, and in-world feedback.
 
 
 - **Grab, aim, and shoot:** pick up the handgun with a VR controller and use the trigger to fire projectiles.
