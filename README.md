@@ -2,7 +2,6 @@
 
 A simple VR shooting-range game built in Unity. Players explore an indoor range, pick up a handgun, and shoot bottle targets during a timed round. The project combines controller-based interaction, physics-driven shooting, and in-world feedback.
 
-## What it does
 
 - **Grab, aim, and shoot:** pick up the handgun with a VR controller and use the trigger to fire projectiles.
 - **Breakable targets:** bottles shatter when hit, with sound, particle effects, and physical fragments. Replacement bottles appear after a short delay.
@@ -15,6 +14,5 @@ The scene also includes a physics-based ball interaction: a designated bottle ta
 
 ## About the project
 
-Built with Unity and C#, using the XR Interaction Toolkit. The main scene is `XRITOOLKIT/Assets/ProjectFinalScene.unity`.
+Built with Unity and C#. The main scene is `XRITOOLKIT/Assets/ProjectFinalScene.unity`.
 
-The project incorporates XRI Starter Kit components by MikeNspired and third-party environment assets.
