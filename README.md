@@ -8,9 +8,8 @@ A simple VR shooting-range game built in Unity. Players explore an indoor range,
 - **Timed rounds and scoring:** shoot targets during a 30-second round while an in-world display shows the remaining time and score.
 - **Movement and interaction:** move and turn with the controller joysticks and interact with objects in the environment.
 
-The scene also includes a physics-based ball interaction: a designated bottle target launches a ball toward a fixed point when broken, and the ball awards an additional point when it reaches a scoring zone.
+The scene also includes a physics-based ball interaction: a designated bottle target launches a ball toward a fixed point when broken, and the ball awards an additional target hit count when it reaches a scoring zone.
 
-## Screenshot
 
 ![VR shooting range with numbered controls and targets](docs/images/range-shooter-numbered.png)
 
@@ -19,7 +18,7 @@ The scene also includes a physics-based ball interaction: a designated bottle ta
 3. **Light switch** — turns the lights on or off.
 4. **Brightness knob** — adjusts the lighting brightness.
 5. **Timer** — shows the remaining time.
-6. **Targets hit counter** — shows the number of targets hit.
+6. **Targets hit counter** — shows the number of targets hit (total scores).
 7. **Bottle target** — shoot the bottle to score.
 
 ## About the project
