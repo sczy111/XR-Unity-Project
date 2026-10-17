@@ -3,7 +3,7 @@
 A simple VR shooting-range game built in Unity. Players explore an indoor range, pick up a pistol, and shoot bottle targets during a timed round. The project combines controller-based interaction, physics-driven shooting, and in-world feedback.
 
 
-- **Grab, aim, and shoot:** pick up the handgun with a VR controller and use the trigger to fire projectiles.
+- **Grab, aim, and shoot:** pick up the pistol with a VR controller and use the trigger to fire projectiles.
 - **Breakable targets:** bottles shatter when hit. Replacement bottles appear after a short delay.
 - **Timed rounds and scoring:** shoot targets during a 30-second round while an in-world display shows the remaining time and score.
 - **Movement and interaction:** move and turn with the controller joysticks and interact with objects in the environment.
